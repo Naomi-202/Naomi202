@@ -1,0 +1,39 @@
+   .mega-mega {
+    padding: 250px;
+    font-family: Arial, Helvetica,sans-serif;
+    text-align: center;
+
+   }
+
+   .service-area {
+    text-align: center;
+    margin: 50px;
+    font-size: 28px;
+   }
+
+   .service-box {
+    width: 200px;
+    height: 200px;
+    border:w#31073c solid 3px;
+   }
+    
+   /*.hero-text-small {
+   font-size: 200px;
+   text-align: center;
+   font-family: Arial,Helvetica,sana-serif;
+   padding-top: 80px;
+}*/
+   .search-box input {
+    width: 1100px;
+    max-width: 100%;
+    padding: 15px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 1px solid #dddddd;
+    box-shadow: 0px 8px 25px rgba(0,0,0,0.03);
+}
+
+.practical-text {
+    float: left;
+    text-align: left;
+}
